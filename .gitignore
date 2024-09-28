@@ -1,0 +1,21 @@
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore JSON files containing sensitive information
+*.json
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment directories
+venv/
+env/
